@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "driv3r_mp", "driv3r_mp\driv3r_mp.csproj", "{EDA846DD-0443-4F92-95BB-2442E5708A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "driv3r_mp_serv", "driv3r_mp_serv\driv3r_mp_serv.csproj", "{B7637C53-8FB0-4B3F-A517-F1C1DC837852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA846DD-0443-4F92-95BB-2442E5708A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA846DD-0443-4F92-95BB-2442E5708A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA846DD-0443-4F92-95BB-2442E5708A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA846DD-0443-4F92-95BB-2442E5708A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7637C53-8FB0-4B3F-A517-F1C1DC837852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7637C53-8FB0-4B3F-A517-F1C1DC837852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7637C53-8FB0-4B3F-A517-F1C1DC837852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7637C53-8FB0-4B3F-A517-F1C1DC837852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

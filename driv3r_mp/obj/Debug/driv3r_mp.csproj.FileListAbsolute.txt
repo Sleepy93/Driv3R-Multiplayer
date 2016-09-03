@@ -1,0 +1,8 @@
+D:\Dokumentumok\Programming\Projects\driv3r_mp\driv3r_mp\bin\Debug\driv3r_mp.exe.config
+D:\Dokumentumok\Programming\Projects\driv3r_mp\driv3r_mp\bin\Debug\driv3r_mp.exe
+D:\Dokumentumok\Programming\Projects\driv3r_mp\driv3r_mp\bin\Debug\driv3r_mp.pdb
+D:\Dokumentumok\Programming\Projects\driv3r_mp\driv3r_mp\obj\Debug\ResolveAssemblyReference.cache
+D:\Dokumentumok\Programming\Projects\driv3r_mp\driv3r_mp\obj\Debug\driv3r_mp.Properties.Resources.resources
+D:\Dokumentumok\Programming\Projects\driv3r_mp\driv3r_mp\obj\Debug\driv3r_mp.csproj.GenerateResource.Cache
+D:\Dokumentumok\Programming\Projects\driv3r_mp\driv3r_mp\obj\Debug\driv3r_mp.exe
+D:\Dokumentumok\Programming\Projects\driv3r_mp\driv3r_mp\obj\Debug\driv3r_mp.pdb
